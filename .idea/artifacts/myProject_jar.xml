@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="myProject:jar">
+    <output-path>$PROJECT_DIR$/../ross_simulation/out/artifacts/myProject_jar</output-path>
+    <root id="archive" name="myProject.jar">
+      <element id="module-output" name="myProject" />
+    </root>
+  </artifact>
+</component>
